@@ -1,0 +1,15 @@
+D:\Git\Examples\Examle_001_Console\bin\Debug\net6.0\Examle_001_Console.exe
+D:\Git\Examples\Examle_001_Console\bin\Debug\net6.0\Examle_001_Console.deps.json
+D:\Git\Examples\Examle_001_Console\bin\Debug\net6.0\Examle_001_Console.runtimeconfig.json
+D:\Git\Examples\Examle_001_Console\bin\Debug\net6.0\Examle_001_Console.dll
+D:\Git\Examples\Examle_001_Console\bin\Debug\net6.0\Examle_001_Console.pdb
+D:\Git\Examples\Examle_001_Console\obj\Debug\net6.0\Examle_001_Console.csproj.AssemblyReference.cache
+D:\Git\Examples\Examle_001_Console\obj\Debug\net6.0\Examle_001_Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Examples\Examle_001_Console\obj\Debug\net6.0\Examle_001_Console.AssemblyInfoInputs.cache
+D:\Git\Examples\Examle_001_Console\obj\Debug\net6.0\Examle_001_Console.AssemblyInfo.cs
+D:\Git\Examples\Examle_001_Console\obj\Debug\net6.0\Examle_001_Console.csproj.CoreCompileInputs.cache
+D:\Git\Examples\Examle_001_Console\obj\Debug\net6.0\Examle_001_Console.dll
+D:\Git\Examples\Examle_001_Console\obj\Debug\net6.0\refint\Examle_001_Console.dll
+D:\Git\Examples\Examle_001_Console\obj\Debug\net6.0\Examle_001_Console.pdb
+D:\Git\Examples\Examle_001_Console\obj\Debug\net6.0\Examle_001_Console.genruntimeconfig.cache
+D:\Git\Examples\Examle_001_Console\obj\Debug\net6.0\ref\Examle_001_Console.dll
